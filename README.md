@@ -15,4 +15,4 @@ The result is written to standard output in the same format of input.
 ```sh
 animate rows
 ```
-Here the result is all the operations of solving, line by line, in the format `(row, column, value)` 
+Here the result is all the operations of solving, line by line, in the format `(row, column, value)`, and when the operation is deletion, the value is `0`.
